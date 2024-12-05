@@ -25,5 +25,5 @@ def test_schemas_return_raise():
         "loc": ("status",),
         "msg": "Field required",
         "input": {"name": "Iphone 14 pro Max", "quantity": 10, "price": 8500},
-        "url": "https://errors.pydantic.dev/2.9/v/missing",
+        "url": "https://errors.pydantic.dev/2.10/v/missing",
     }
